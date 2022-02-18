@@ -1,0 +1,6 @@
+{
+    "name": "Custom home button",
+	"hardname": "customhome",
+	"description": "Change the image of the home button",
+	"css": "/* Custom home button */\n.homeIcon-r0w4ny path{fill:transparent;}.homeIcon-r0w4ny{background:url(\"https://c.tenor.com/6mQFm9PXMSQAAAAC/d4dj.gif\") center/cover no-repeat;min-width:45px;min-height:45px;}\n"
+}

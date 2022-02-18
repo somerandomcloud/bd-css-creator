@@ -1,0 +1,6 @@
+{
+    "name": "Better Popups",
+	"hardname": "betterpopups",
+	"description": "Animates any menus that pop-out.",
+	"css": "/* Better Popups */\n.menu-1QACrS, .emojiPicker-6YCk8a, .browser-mnQ1T7, .messagesPopoutWrap-3zryHW, .wrapper-1NB3WY, .container-3u7RcY, .container-2o3qEW, .container-2ebMPP, .userPopout-2j1gM4{animation:custom-menu-animation 250ms ease;transform-origin:top;}@keyframes custom-menu-animation{0%{transform:scaleY(0);} 100%{transform:scaleY(1);}}\n"
+}

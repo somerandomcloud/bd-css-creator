@@ -1,0 +1,6 @@
+{
+    "name": "Custom Status Colors",
+	"hardname": "customstatuscolors",
+	"description": "Edit the status colors. Wont affect PlatformIndicator plugin, as they have something seperate going on",
+	"css": "/* Custom Status Colors */\nrect[fill^=\"hsl(262,\"]{fill:purple}rect[fill^=\"hsl(139,\"]{fill:rgb(156, 226, 91)}rect[fill^=\"hsl(38,\"]{fill:#5e80f0}rect[fill^=\"hsl(359,\"]{fill:rgb(247, 123, 123)}rect[fill^=\"hsl(214,\"]{fill:rgb(0, 0, 0)}\n"
+}

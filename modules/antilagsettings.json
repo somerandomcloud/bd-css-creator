@@ -1,0 +1,6 @@
+{
+    "name": "Antilaggy ",
+	"hardname": "antilagsettings",
+	"description": "Disable discord's overcomplicated and extremely laggy settings animation",
+	"css": "/* Disable discord's laggy settings animation */\n.layer-86YKbF{transform:none !important;opacity:1 !important;}.layers-OrUESM>.layer-86YKbF.animating-1rIrGV *,.layers-OrUESM>.layer-86YKbF.animating-1rIrGV{pointer-events:auto !important;will-change:unset;}.animating-1rIrGV.stop-animations{z-index:100 !important;}\n"
+}

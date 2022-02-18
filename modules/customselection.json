@@ -1,0 +1,6 @@
+{
+    "name": "Custom selection color",
+	"hardname": "customselection",
+	"description": "Add any color as your selection highlighter",
+	"css": "/* Custom selection color */\n::selection{background-color:purple;}\n"
+}

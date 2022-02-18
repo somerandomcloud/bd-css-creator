@@ -1,0 +1,6 @@
+{
+    "name": "Better status menu",
+	"hardname": "betterstatus",
+	"description": "Makes the status menu look a little prettier",
+	"css": "/* Better status menu */\n#status-picker{margin-bottom:5px;}#status-picker > div{display:flex;flex-wrap:wrap;padding:8px;}.statusItem-33LqPf{height:32px;display:flex;align-items:center;justify-content:center;padding:0;}.statusItem-33LqPf > svg{width:16px;height:auto;}#status-picker .item-1tOPte{margin:0;width:25%;}#status-picker .status-1fhblQ,#status-picker .description-2L932D,#status-picker .separator-2I32lJ:nth-child(2){display:none;}#status-picker .separator-2I32lJ,#status-picker #status-picker-custom-status{display:block;width:100%;}#status-picker-custom-status .status-1fhblQ{display:block;margin-left:6px;}\n"
+}
